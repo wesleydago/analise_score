@@ -1,4 +1,4 @@
-🏦 Previsão de Score de Crédito com Machine Learning
+#🏦 Previsão de Score de Crédito com Machine Learning
 
 Este projeto resolve um problema real do setor bancário: classificar automaticamente o score de crédito de clientes (Ruim, Ok ou Bom) com base em suas informações financeiras e de comportamento. Utilizei técnicas de Machine Learning para treinar e comparar modelos, alcançando uma acurácia de 82,27% com o melhor algoritmo.
 
